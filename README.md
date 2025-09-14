@@ -63,6 +63,7 @@ ORDER BY avg_rainfall DESC;
 ![Seasonal Patterns Table](visual/high_low_avg_rainfall.png)
 
 **Insight:** While rainfall peaks in November, dengue cases peak in August. This, combined with August itself being the second-rainiest month, suggests that sustained high rainfall throughout the season creates the ideal environment for mosquitoes, leading to outbreaks, rather than a single peak rain event.
+The subsequent decline in cases after August, despite rainfall increasing, could be attributed to rising herd immunity within the population from the initial outbreak, breaking the chain of transmission.
 ##
 ### 3. Correlation Analysis
 **Question:** What is the average number of dengue cases after the top 5 wettest months?
