@@ -1,7 +1,7 @@
 # Project: Correlation between Monsoon Rainfall and Dengue Cases
 
 ##  Business Problem
-Public health officials in [San Juan] lack a data-driven model to proactively anticipate dengue fever outbreaks. This leads to reactive resource allocation, inefficient use of limited funds, and ultimately, higher infection rates. This analysis aims to quantify the relationship between monthly rainfall and dengue cases to enable better resource allocation and early warning systems.
+Public health officials in a major tropical city lack a data-driven model to proactively anticipate dengue fever outbreaks. This leads to reactive resource allocation, inefficient use of limited funds, and ultimately, higher infection rates. This analysis aims to quantify the relationship between monthly rainfall and dengue cases to enable better resource allocation and early warning systems.
 
 ##  Tools & Data
 - **SQL:** Google BigQuery
